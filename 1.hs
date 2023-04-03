@@ -20,4 +20,4 @@ cuadradobinomio x = (fst x)^2+ 2 * fst x * snd x + (snd x)^2
 ----------------------------------------------------------------
 
 ginoesungordito::Float->Float->Float->Float
-ginoesungordito x a c= (sqrt(((x^4/x^(-2)+x*x^72)/(x^4*a^2-c^24)))*2^(-12))/72*4-2
+ginoesungordito x a c= (sqrt(((x^4/x^^(-2)+x*x^72)/(x^4*a^2-c^24)))*2^^(-12))/72*4-2
